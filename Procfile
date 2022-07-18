@@ -1,0 +1,1 @@
+bot: python telega_PyWeatherBot.py
